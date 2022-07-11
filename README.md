@@ -7,3 +7,14 @@ To access the clusters `sudo su -` as items have been created as the root user.
 The following must be available on a system based on the requirements of the Vagrantfile.
 * libvirt
 * vagrant
+
+## Launching
+To launch the environment.
+```
+vagrant up
+```
+
+To access the environment
+```
+vagrant ssh
+```
